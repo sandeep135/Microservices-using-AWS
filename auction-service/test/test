@@ -1,0 +1,1 @@
+curl --location --request POST "https://dev-u3untfhwtomnt2x4.eu.auth0.com/oauth/token" --header 'Content-Type: application/x-www-form-urlencoded' --data-urlencode 'client_id=hA6O6HTcvVKlQcu0GZZxR8K0GBfdHEe3' --data-urlencode 'username=sandeepbhandari135@icloud.com' --data-urlencode 'password=Machsb123$' --data-urlencode 'grant_type=password' --data-urlencode 'scope=openid'
